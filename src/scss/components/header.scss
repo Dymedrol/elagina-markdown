@@ -113,6 +113,7 @@
 }
 
 .le-header-justifyer2 {
+  display: none;
   @media ($XL) {
     display: flex;
     justify-content: flex-end;
